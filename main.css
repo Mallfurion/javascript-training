@@ -49,3 +49,21 @@ nav > a {
 nav > a:last-child {
     border-right: none;
 }
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.back, .next {
+    font-size: 64px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.image-content, .image-content > img {
+    max-width: 480px;
+    transition: 1s ease-in-out;
+}
