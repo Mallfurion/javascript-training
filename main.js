@@ -1,3 +1,8 @@
+const siteName = "Cercetașii României";
+
+/**
+ * Dynamic Content
+ */
 const contentElement = document.querySelector('.content');
 
 function changePage (pageName) {
@@ -5,3 +10,12 @@ function changePage (pageName) {
         contentElement.innerHTML = res;
     });
 }
+
+/**
+ * Footer content
+ */
+
+const today = new Date();
+
+const footerElement = document.querySelector('.footer');
+footerElement.textContent = `Copyright ${today.getFullYear()} | ${siteName}`;

@@ -24,7 +24,28 @@ nav > a:hover {
     color: red;
 }
 
-.content {
+.content, footer {
     margin: auto;
     max-width: 992px;
+}
+
+footer {
+    text-align: center;
+}
+
+header > .logo {
+    text-align: center;
+}
+
+header > .logo > img {
+    max-width: 300px;
+}
+
+nav > a {
+    border-right: 1px solid black; 
+    padding: 0 20px;
+}
+
+nav > a:last-child {
+    border-right: none;
 }
