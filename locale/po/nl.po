@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " en privacyverklaring van het RTC."
+msgstr "en privacyverklaring van het RTC."
+
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+msgid "."
+msgstr "."
+
+msgid "6 or more characters are required."
+msgstr "Gebruik 6 of meer tekens."
+
+msgid "A user is already registered with this e-mail address."
+msgstr "Er is al een gebruiker geregistreerd met dit e-mailadres."
+
+msgid "Activate your account"
+msgstr "Activeer je account"
+
+msgid "Add more information to your profile for better matching!"
+msgstr "Voeg meer informatie toe aan je profiel voor een betere matching!"
+
+msgid "Add new"
+msgstr "Voeg een nieuw"
+
+msgid "Add new term"
+msgstr "Voeg een nieuwe term toe"
+
+msgid "Add skill manually"
+msgstr "Competentie toevoegen"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Applied"
+msgstr "Gesolliciteerd"
+
+msgid "Are you sure you want to delete "
+msgstr "Weet je zeker dat je dit item wil verwijderen:"
+
+msgid "Authenticate"
+msgstr "Inloggen"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Breng mij naar het rtc"
+msgstr "Breng mij naar het RTC"
+
+msgid ""
+"By deselecting this you will not get match results and you cannot be found "
+"by employers. You can no longer contact other professionals. Your account "
+"will be deactivated. And you can choose to participate in matching again "
+"later."
+msgstr ""
+"Doe je niet mee in matching? Dat wil zeggen dat je geen matchresultaten "
+"krijgt en je niet gevonden kan worden door werkgevers. Je kan dan niet meer "
+"in contact komen met professionals. Je account is in slaapstand. Je kan je "
+"account ieder moment weer activeren."
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Career Phase"
+msgstr "Carrièrefase"
+
+msgid "Change password"
+msgstr "Wachtwoord wijzigen"
+
+msgid "Choose a language"
+msgstr "Kies een taal"
+
+msgid "Coming soon..."
+msgstr "Coming soon..."
+
+msgid "Company name"
+msgstr "Naam bedrijf"
+
+msgid "Complete"
+msgstr "Compleet"
+
+msgid "Confirm"
+msgstr "Bevestigen"
+
+msgid "Confirm Password"
+msgstr "Wachtwoord bevestigen"
+
+msgid "Confirm e-mail address"
+msgstr "Bevestig e-mailadres"
+
+msgid "Confirmation successful"
+msgstr "Bevestiging succesvol ontvangen"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Create your profile"
+msgstr "Maak je profiel aan"
+
+msgid "Date:"
+msgstr ""
+
+msgid "Degree / level / type"
+msgstr "Graad / niveau / type"
+
+msgid "Delete all the information related to your account."
+msgstr "Verwijder je account en alle daarbij horende informatie. "
+
+msgid "Delete your account"
+msgstr "Verwijder je account"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Discover your strength"
+msgstr "Ontdek je kracht!"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "E-mail is not verified."
+msgstr ""
+
+msgid "Edit education"
+msgstr "Opleiding aanpassen"
+
+msgid "Edit future job"
+msgstr "Toekomstige baan aanpassen"
+
+msgid "Edit language"
+msgstr "Taal aanpassen"
+
+msgid "Edit location"
+msgstr "Locatie aanpassen"
+
+msgid "Edit skill"
+msgstr "Competentie aanpassen"
+
+msgid "Edit work experience"
+msgstr "Bewerk je werk ervaringen"
+
+msgid "Education"
+msgstr "Opleiding"
+
+msgid "Education evaluation"
+msgstr "Opleidingsevaluatie"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "End date"
+msgstr "Einddatum"
+
+msgid "Experience evaluation"
+msgstr "Ervaringsevaluatie"
+
+msgid "Explore your personal job market"
+msgstr "Ontdek je persoonlijke arbeidsmarkt"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Extra information on this work experience"
+msgstr "Extra informatie over deze functie"
+
+msgid "Extra information regarding this education"
+msgstr "Extra informatie over deze opleiding"
+
+msgid "Find a job that you love"
+msgstr "Find a job that you love"
+
+msgid "Find all vacancies in one overview!"
+msgstr "Bekijk alle vacatures in één overzicht"
+
+msgid "First name"
+msgstr "Voornaam"
+
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Function level"
+msgstr "Functieniveau"
+
+msgid "Function title"
+msgstr "Functietitel"
+
+msgid "Function type"
+msgstr "Functietype"
+
+msgid "Get Started"
+msgstr "Aan de slag"
+
+msgid "Go through suggestions"
+msgstr "Bekijk suggesties"
+
+msgid "Go to Login"
+msgstr "Ga naar Inloggen"
+
+msgid "Go to Settings"
+msgstr "Ga naar settings"
+
+msgid "Go to rtc-baandomein to check your profile."
+msgstr "Ga naar rtc-baandomein om je profiel te bekijken."
+
+msgid "Heb jij al een profiel op het RTC ? "
+msgstr "Heb je al een profiel op het RTC?"
+
+msgid "Hello"
+msgstr "Hallo"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "I agree to the"
+msgstr "Ik ga akkoord met de"
+
+msgid ""
+"If you complete your profile, you can find here the job opportunities that "
+"we selected for you."
+msgstr ""
+"Wanneer je jouw profiel aanvult, kan je hier de vacatures bekijken die AIMA "
+"voor jou heeft geselecteerd."
+
+msgid "Ik ga akkoord met de "
+msgstr "Ik ga akkoord met de"
+
+msgid "Ik ga akkoord met het overzetten van mijn gegevens naar het RTC"
+msgstr "Ik ga akkoord met het overzetten van mijn gegevens naar het RTC."
+
+msgid "Industry type"
+msgstr "Industrie"
+
+msgid "Interested"
+msgstr "Geïnteresseerd"
+
+msgid ""
+"It's good to set goals. I know your past. Now I wonder about your future. "
+"What jobs are you interested in?"
+msgstr ""
+"Het is goed om doelen te stellen. Ik ben benieuwd naar jouw toekomst. Welke "
+"banen hebben jouw interesse?"
+
+msgid "Je hebt deze datam al verzonden, je kunt je profiel bekijken op"
+msgstr "Je hebt deze data al verzonden. Je kunt je profiel bekijken op"
+
+msgid "Job ahead"
+msgstr "Baan in zicht"
+
+msgid "Klik dan hier!"
+msgstr "Klik dan hier!"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Language evaluation"
+msgstr "Taalevaluatie"
+
+msgid "Languages"
+msgstr "Talen"
+
+msgid "Last name"
+msgstr "Achternaam"
+
+msgid "Let's look at your profile"
+msgstr "Bekijk je profiel"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Linkedin connected successfully."
+msgstr "LinkedIn is succesvol gekoppeld."
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Login"
+msgstr "Inloggen"
+
+msgid "Logout"
+msgstr "Uitloggen"
+
+msgid "Match"
+msgstr "Match"
+
+msgid "Mr"
+msgstr "Dhr."
+
+msgid "Mr / Mrs"
+msgstr "Dhr. / Mevr."
+
+msgid "Mrs"
+msgstr "Mevr."
+
+msgid "My Labour Market"
+msgstr "Mijn arbeidsmarkt"
+
+msgid "My Profile"
+msgstr "Mijn profiel"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "New education"
+msgstr "Nieuwe opleiding"
+
+msgid "New future job"
+msgstr "Nieuwe toekomstige baan"
+
+msgid "New language"
+msgstr "Nieuwe taal"
+
+msgid "New location"
+msgstr "Nieuwe locatie"
+
+msgid "New skill"
+msgstr "Nieuwe competentie"
+
+msgid "New term"
+msgstr ""
+
+msgid "New version available. Load New Version?"
+msgstr "Er is een nieuwe versie beschikbaar. Wil je de nieuwe versie gebruiken?"
+
+msgid "New work experience"
+msgstr "Nieuwe werkervaring"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No results found."
+msgstr "AIMA heeft geen resultaten gevonden. "
+
+msgid "Not interested"
+msgstr "Niet geïnteresseerd"
+
+msgid "Not registered? Create an account"
+msgstr "Niet geregistreerd? Maak een account aan"
+
+msgid "Participate in matching"
+msgstr "Deelnemen aan matching"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password (confirm)"
+msgstr "Wachtwoord (bevestiging)"
+
+msgid "Password changed successfully"
+msgstr "Je wachtwoord is gewijzigd"
+
+msgid "Password reset"
+msgstr "Wachtwoord reset"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "Personality"
+msgstr "Persoonlijkheid"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Please check again"
+msgstr "Controleer nogmaals"
+
+msgid "Please confirm that this is your e-mail address."
+msgstr "Gelieve uw e-mailadres te bevestigen."
+
+msgid "Please provide a valid email address."
+msgstr "Gelieve een geldig e-mailadres op te geven."
+
+msgid "Please select a valid location."
+msgstr "Selecteer een geldige locatie"
+
+msgid "Please select a valid option."
+msgstr "Selecteer een geldige optie"
+
+msgid "Please try again after you have reconnected!"
+msgstr "Probeer het later nog eens."
+
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+msgid ""
+"Proficiat, jouw profiel is compleet! Publiceer nu je profiel en ontdek jouw "
+"kansen op de arbeidsmarkt.<br>Nu kun je aan de slag. Om samen met ons te "
+"ontdekken wat jou zo uniek maakt. Om jezelf vindbaar te maken voor "
+"werkgevers en je netwerk uit te breiden. <br>Dus sta niet stil…en maak er "
+"werk van! In welke sector heb jij interesse?"
+msgstr ""
+"Proficiat, jouw profiel is compleet! Publiceer nu je profiel en ontdek jouw "
+"kansen op de arbeidsmarkt.<br>Nu kun je aan de slag. Om samen met ons te "
+"ontdekken wat jou zo uniek maakt. Om jezelf vindbaar te maken voor "
+"werkgevers en je netwerk uit te breiden. <br>Dus sta niet stil…en maak er "
+"werk van! In welke sector heb jij interesse?"
+
+msgid "Proficiency"
+msgstr "Bekwaamheid"
+
+msgid "Publiceer je profiel en maak er werk van!"
+msgstr "Publiceer je profiel en maak er werk van!"
+
+msgid "Radius in kilometers"
+msgstr "Radius in kilometers"
+
+msgid "Read more ..."
+msgstr "Lees verder ..."
+
+msgid "Ready"
+msgstr "Opslaan"
+
+msgid "Register"
+msgstr "Registreer"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save and add another"
+msgstr ""
+
+msgid "School / Institute"
+msgstr "School / Instituut"
+
+msgid "Select a related term from our list"
+msgstr ""
+
+msgid "Select the skill, if you like to keep using this skill in the future."
+msgstr ""
+"Selecteer de competentie, wanneer je deze in de toekomst wil blijven "
+"gebruiken."
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Settings and privacy"
+msgstr "Instellingen en privacy"
+
+msgid "Skill"
+msgstr "Competentie"
+
+msgid "Skill evaluation"
+msgstr "Skillevaluatie"
+
+msgid "Skills & Competences"
+msgstr "Skills & Competenties"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "Start date must be before end date"
+msgstr "De einddatum mag niet voor de begindatum liggen"
+
+msgid "Subject"
+msgstr "Studierichting"
+
+msgid "Submitting ..."
+msgstr "Bezig met verzenden ..."
+
+msgid "Suggested skills"
+msgstr "Voorgestelde competenties"
+
+msgid "Terms of Service"
+msgstr "Gebruiksvoorwaarden"
+
+msgid ""
+"The field is disabled until we finish deactivating your account. This might "
+"take a moment."
+msgstr ""
+"Dit veld is niet actief totdat we je account hebben gedeactiveerd. Dit kan "
+"even duren."
+
+msgid "The passwords do not match."
+msgstr "De wachtwoorden komen niet overeen."
+
+msgid "The reset URL is invalid. Please request a new one."
+msgstr "Deze reset URL is ongeldig. Gelieve een nieuwe aan te vragen."
+
+msgid "There are no suggestions available"
+msgstr "Er zijn geen suggesties beschikbaar"
+
+msgid "There was a problem deleting your account, please try again later!"
+msgstr ""
+"Je account kan op dit moment niet worden verwijderd. Neem contact op met "
+"info@8vance.com"
+
+msgid "This field is required."
+msgstr "Dit is een verplicht veld."
+
+msgid "This is not a valid email."
+msgstr "Dit is geen geldig e-mailadres."
+
+msgid "This is your native language"
+msgstr "Dit is jouw moedertaal"
+
+msgid "This might take a while ..."
+msgstr "Dit kan even duren ..."
+
+msgid "To change that, please enable Match Participation in your Settings."
+msgstr "Activeer je account en neem deel in matching. Ga naar settings."
+
+msgid "To continue, please log in."
+msgstr "Log in om door te gaan"
+
+msgid ""
+"U kunt slechts eenmaal gegevens exporteren, dus zorg ervoor dat uw "
+"profielgegevens zijn ingevuld"
+msgstr ""
+"U kunt slechts eenmaal gegevens exporteren, dus zorg ervoor dat uw "
+"profielgegevens zijn ingevuld."
+
+msgid "Upload a profile picture"
+msgstr "Kies een profielfoto"
+
+msgid "View suggestions"
+msgstr "Bekijk suggesties"
+
+msgid "Visit website"
+msgstr "Bezoek de website"
+
+msgid "We are currently looking for your personal job opportunities."
+msgstr "Ik zoek op dit moment naar vacatures voor jouw persoonlijke arbeidsmarkt."
+
+msgid ""
+"We have sent an e-mail to you for verification. Follow the link provided to "
+"finalize the signup process. Please contact us if you do not receive it "
+"within a few minutes. Perhaps the message ended up in your spam folder?"
+msgstr ""
+"We hebben je een e-mail gestuurd voor verificatie. Klik op de link in de "
+"e-mail om de registratie af te ronden. Wanneer je de e-mail binnen een paar "
+"minuten niet ontvangt, check dan je ongewenste e-mail of neem contact met "
+"ons op."
+
+msgid ""
+"We have sent you an e-mail. Please contact us if you do not receive it\n"
+"              within a few minutes."
+msgstr ""
+
+msgid "What are your skills and competences?"
+msgstr "Wat zijn je vaardigheden en competenties?"
+
+msgid "What are your work experiences?"
+msgstr "Wat is jouw werkervaring?"
+
+msgid "What have you studied?"
+msgstr "Welke opleiding heb je gevolgd?"
+
+msgid "What is your ideal work location?"
+msgstr "Wat is je ideale werklocatie?"
+
+msgid "What languages are you comfortable with?"
+msgstr "Welke talen beheers je?"
+
+msgid "What will be the next phase in your career?"
+msgstr "Wat is de volgende fase in je carrière?"
+
+msgid "What would you like to be your next step?"
+msgstr "Wat wordt jouw volgende stap?"
+
+msgid ""
+"With the virtual assistance of AIMA, you will find your dream job in no "
+"time!"
+msgstr "Met de virtuele hulp van AIMA, vind je in een mum van tijd jouw droombaan!"
+
+msgid "Work Experience"
+msgstr "Werkervaring"
+
+msgid "Years of experience"
+msgstr "Jaren ervaring"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid ""
+"You are about to delete your user account. All information will be deleted "
+"and cannot be restored. Are you sure you want to delete your account?"
+msgstr ""
+"Je staat op het punt je profiel te verwijderen. Alle informatie zal worden "
+"verwijderd en kan niet worden herstelt. Ben je zeker dat je je profiel wil "
+"verwijderen?"
+
+msgid "You are currently not participating in matching."
+msgstr "Je profiel slaapt, je profiel wordt nu niet gematched."
+
+msgid "You are not just a number to me. So let's introduce, who are you?"
+msgstr "Jij bent geen nummer voor mij. Dus vertel, wie ben jij?"
+
+msgid ""
+"You are trying to select an unknown item. Please specify which of known "
+"types is related to your term."
+msgstr ""
+"Je probeert een term te selecteren dat bij ons niet bekend is. Specificeer "
+"alsjeblieft waar deze term aan is gerelateerd. "
+
+msgid "You cannot access this part of the application since your network is down!"
+msgstr "De pagina kan niet worden geladen. Controleer je netwerk verbinding."
+
+msgid "You cannot make changes to the app since you are currently offline"
+msgstr "Je kunt geen wijzigingen aanbrengen, omdat je momenteel offline bent."
+
+msgid "You currently study here"
+msgstr "Momenteel studeer ik hier"
+
+msgid "You currently work here"
+msgstr "Hier werk ik momenteel"
+
+msgid "You got a degree in:"
+msgstr "Je hebt een diploma in: "
+
+msgid "You have already exported the information."
+msgstr "Je profiel is geëxporteerd. "
+
+msgid "You have logged out!"
+msgstr "Je bent uitgelogd!"
+
+msgid "You have successfully changed your password."
+msgstr "Je wachtwoord is gewijzigd."
+
+msgid "You must agree to the"
+msgstr "Accepteer de"
+
+msgid "You must specify a start date"
+msgstr "Kies een startdatum"
+
+msgid "You must specify an end date or if it is current"
+msgstr "Kies een einddatum"
+
+msgid "You still like to use this skill?"
+msgstr "Wil je deze competentie graag blijven gebruiken?"
+
+msgid "You studied at:"
+msgstr "Je studeerde bij:"
+
+msgid "You worked as:"
+msgstr "Jouw functie:"
+
+msgid "Your account was successfully deleted"
+msgstr "Je profiel is verwijderd. Het lijkt alsof ik je nooit gekend heb. AIMA"
+
+msgid ""
+"Your profile has been communicated to the RTC. You will receive an email "
+"shortly."
+msgstr ""
+"Je informatie is gecommuniceerd naar het RTC. Je ontvangt zometeen een "
+"email, waarmee je aan de slag kan."
+
+msgid "Your profile is ready for matching!"
+msgstr "Je profiel is klaar om te matchen!"
+
+msgid "Your reading level"
+msgstr "Leesniveau"
+
+msgid "Your speaking level"
+msgstr "Spreekniveau"
+
+msgid "Your writing level"
+msgstr "Schrijfniveau"
+
+msgid "algemene voorwaarden"
+msgstr "Algemene voorwaarden"
+
+msgid "and"
+msgstr ""
+
+msgid "loading ..."
+msgstr "loading ..."
+
+msgid "me"
+msgstr "ik"
+
+msgid "my desire"
+msgstr "mijn wensen"
+
+msgid "my past"
+msgstr "mijn verleden"
+
+msgid "my skills"
+msgstr "mijn competenties"
+
+msgid "personal info"
+msgstr "persoonlijke informatie"
+
+msgid "term"
+msgstr "term toe"
